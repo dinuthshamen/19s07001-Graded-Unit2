@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 date_default_timezone_set('Asia/Colombo');
 
-$config['base_url'] = 'http://localhost/mis';
+$config['base_url'] = 'http://localhost/19s07001-Graded-Unit2';
 
 /*
 |--------------------------------------------------------------------------
